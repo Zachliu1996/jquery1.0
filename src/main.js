@@ -1,0 +1,4 @@
+jQuery('.test')
+    .children().print()
+
+

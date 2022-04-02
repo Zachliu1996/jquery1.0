@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["jQuery","children","print"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,OAAO,OAAP,EACKC,QADL,GACgBC,KADhB","file":"main.d0d5a537.map","sourceRoot":"..\\src","sourcesContent":["jQuery('.test')\r\n    .children().print()\r\n\r\n\r\n"]}
